@@ -21,3 +21,16 @@ This project demonstrates an end-to-end data analytics workflow for Uber trip da
 **5. Deployment & Automation:** Published the report to Power BI Service and scheduled data refreshes to keep dashboards updated with the latest data.
 
 **6. Documentation & Collaboration:** Published reports in Power BI Service and shared project files, datasets, DAX measures, and workflow on GitHub for reproducibility.
+
+
+**Overall Insights:**
+
+1. Default rates are highest among unemployed and part-time applicants, who also have the lowest average incomes.
+
+2. The bank’s underwriting shows higher median loan amounts for applicants with lower credit scores, indicating potential risk.
+
+3. The portfolio’s risk is volatile, with significant year-over-year increases in default rates coinciding with higher loan approvals.
+
+4. The majority of loan value is concentrated in Medium to High credit score bins, primarily for Home and Business purposes.
+
+5. Loan volume is highest for individuals with a Bachelor’s or High School education.
